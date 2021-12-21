@@ -7,7 +7,7 @@ Time-based bidding auctions for NFT's (non-fungible tokens).
 
 ### Nouns
 
-- **Platform** - a specific ERC-721 contract address
+- **Platform** - a specific ERC-721 contract address.
 - **Token** - the corresponding token id related to the contract address
 - **NFT** - a non-fungible token, with both a platform and token, created outside of Bidify
 - **Listing** - an auction wrapper, for an NFT, created with Bidify
